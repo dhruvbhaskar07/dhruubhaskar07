@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="110" viewBox="0 0 1280 110" role="img" aria-label="Fetching live telemetry">
+  <defs>
+    <linearGradient id="tbg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#060B12"/>
+    </linearGradient>
+    <linearGradient id="tacc" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00FF88"/>
+      <stop offset="1" stop-color="#00E5FF"/>
+    </linearGradient>
+    <clipPath id="tround"><rect x="0" y="0" width="1280" height="110" rx="14"/></clipPath>
+  </defs>
+  <g clip-path="url(#tround)">
+    <rect width="1280" height="110" fill="url(#tbg)"/>
+    <g stroke="#00FF88" stroke-opacity="0.12">
+      <path d="M0 36H1280M0 73H1280"/>
+      <path d="M213 0V110M426 0V110M639 0V110M852 0V110M1065 0V110"/>
+    </g>
+    <g font-family="monospace" font-size="17" fill="#00FF88" opacity="0.55">
+      <text x="150" y="20">1<animateTransform attributeName="transform" type="translate" values="0 -14; 0 110" dur="4.6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.55;0.1;0.55" dur="4.6s" repeatCount="indefinite"/></text>
+      <text x="150" y="48">0<animateTransform attributeName="transform" type="translate" values="0 -14; 0 110" dur="4.6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.1;0.55;0.1" dur="4.6s" repeatCount="indefinite"/></text>
+      <text x="150" y="76">1<animateTransform attributeName="transform" type="translate" values="0 -14; 0 110" dur="4.6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.55;0.1;0.55" dur="4.6s" repeatCount="indefinite"/></text>
+      <text x="190" y="10">0<animateTransform attributeName="transform" type="translate" values="0 -14; 0 110" dur="3.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.1;0.5;0.1" dur="3.8s" repeatCount="indefinite"/></text>
+      <text x="190" y="38">1<animateTransform attributeName="transform" type="translate" values="0 -14; 0 110" dur="3.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.5;0.1;0.5" dur="3.8s" repeatCount="indefinite"/></text>
+      <text x="190" y="66">0<animateTransform attributeName="transform" type="translate" values="0 -14; 0 110" dur="3.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.1;0.5;0.1" dur="3.8s" repeatCount="indefinite"/></text>
+      <text x="230" y="30">0<animateTransform attributeName="transform" type="translate" values="0 -14; 0 110" dur="5.3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.5;0.1;0.5" dur="5.3s" repeatCount="indefinite"/></text>
+      <text x="230" y="58">1<animateTransform attributeName="transform" type="translate" values="0 -14; 0 110" dur="5.3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.1;0.5;0.1" dur="5.3s" repeatCount="indefinite"/></text>
+      <text x="230" y="86">0<animateTransform attributeName="transform" type="translate" values="0 -14; 0 110" dur="5.3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.5;0.1;0.5" dur="5.3s" repeatCount="indefinite"/></text>
+    </g>
+    <g fill="#E8FFE9">
+      <circle cx="1140" cy="32" r="1.8" opacity="0.7"><animate attributeName="opacity" values="0.7;0.2;0.7" dur="3.1s" repeatCount="indefinite"/></circle>
+      <circle cx="1220" cy="72" r="1.4" opacity="0.5" fill="#00FF88"/>
+      <circle cx="1050" cy="60" r="1.5" opacity="0.55" fill="#00E5FF"/>
+      <circle cx="300" cy="85" r="1.3" opacity="0.45"/>
+    </g>
+    <rect x="40" y="14" width="1200" height="82" rx="12" fill="#07110A" stroke="#00FF88" stroke-opacity="0.45" stroke-width="1.5"/>
+    <circle cx="1072" cy="36" r="6" fill="#FF5F57"/>
+    <circle cx="1092" cy="36" r="6" fill="#FEBC2E"/>
+    <circle cx="1112" cy="36" r="6" fill="#28C840"/>
+    <g font-family="monospace" font-size="19">
+      <text x="340" y="43" fill="#00FF88">$ ./telemetry --live</text>
+      <text x="340" y="74" fill="#C8D8C8">fetching stats <tspan fill="#00FF88">▓▓▓▓▓▓░░</tspan> live</text>
+    </g>
+    <rect x="40" y="96" width="1200" height="3" fill="url(#tacc)" opacity="0.8"/>
+  </g>
+</svg>

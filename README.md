@@ -16,10 +16,7 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/github-snake-dark.svg" />
-  <img width="100%" src="assets/github-snake.svg" alt="Contribution snake" />
-</picture>
+<img width="100%" src="assets/strip-work.svg" alt="Loading selected work" />
 
 </div>
 
@@ -56,10 +53,7 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/github-snake-dark.svg" />
-  <img width="100%" src="assets/github-snake.svg" alt="Contribution snake" />
-</picture>
+<img width="100%" src="assets/strip-telemetry.svg" alt="Fetching live telemetry" />
 
 </div>
 

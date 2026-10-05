@@ -14,24 +14,24 @@
 
 </div>
 
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/github-snake-dark.svg" />
+  <img width="100%" src="assets/github-snake.svg" alt="Contribution snake" />
+</picture>
+
+</div>
+
 <a id="about"></a>
 
 ## About
 
 <div align="center">
 
-**Hello, I'm Dhruv Bhaskar — AI Engineer.**
+<img width="100%" src="assets/about-terminal.svg" alt="About Dhruv Bhaskar — terminal" />
 
-I work across computer vision, voice interfaces, and demand forecasting, with an emphasis on systems that move from notebook to production.
-
-`Design` → `Data` → `Deploy`
-
-```bash
-$ whoami --dhruv
-role....... AI Engineer (vision · voice · forecasting)
-location... India · building in public
-focus...... usable systems, clean evaluation, steady shipping
-```
+`AI Engineer (vision · voice · forecasting) — India · building in public`
 
 </div>
 
@@ -41,9 +41,10 @@ focus...... usable systems, clean evaluation, steady shipping
 
 <div align="center">
 
-<a href="https://github.com/dhruvbhaskar07/AirDash-Gesture-Control"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvbhaskar07&repo=AirDash-Gesture-Control&theme=transparent&hide_border=true&title_color=39FF88&text_color=C8D8C8&icon_color=39FF88" alt="AirDash Gesture Control" /></a>
-<a href="https://github.com/dhruvbhaskar07/Winter-AI-Assistant"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvbhaskar07&repo=Winter-AI-Assistant&theme=transparent&hide_border=true&title_color=39FF88&text_color=C8D8C8&icon_color=39FF88" alt="Winter AI Assistant" /></a>
-<a href="https://github.com/dhruvbhaskar07/RetailPulse"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvbhaskar07&repo=RetailPulse&theme=transparent&hide_border=true&title_color=39FF88&text_color=C8D8C8&icon_color=39FF88" alt="RetailPulse" /></a>
+|  |  |
+|---|---|
+| <a href="https://github.com/dhruvbhaskar07/AirDash-Gesture-Control"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvbhaskar07&repo=AirDash-Gesture-Control&theme=transparent&hide_border=true&title_color=39FF88&text_color=C8D8C8&icon_color=39FF88" alt="AirDash Gesture Control" /></a> | <a href="https://github.com/dhruvbhaskar07/Winter-AI-Assistant"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvbhaskar07&repo=Winter-AI-Assistant&theme=transparent&hide_border=true&title_color=39FF88&text_color=C8D8C8&icon_color=39FF88" alt="Winter AI Assistant" /></a> |
+| <a href="https://github.com/dhruvbhaskar07/RetailPulse"><img src="https://github-readme-stats.vercel.app/api/pin/?username=dhruvbhaskar07&repo=RetailPulse&theme=transparent&hide_border=true&title_color=39FF88&text_color=C8D8C8&icon_color=39FF88" alt="RetailPulse" /></a> | **[🔎 CodeAlpha Analytics](https://github.com/dhruvbhaskar07/codealpha_tasks)** — Web scraping, sentiment analysis, and data visualization.<br /><br />[📦 All repositories →](https://github.com/dhruvbhaskar07?tab=repositories) |
 
 </div>
 
@@ -53,14 +54,14 @@ focus...... usable systems, clean evaluation, steady shipping
 | [🤖 Winter AI](https://github.com/dhruvbhaskar07/Winter-AI-Assistant) | Voice-driven desktop assistant with long-term memory | `Python` `PyQt5` `Voice AI` |
 | [📊 RetailPulse](https://github.com/dhruvbhaskar07/RetailPulse) | Demand forecasting, customer segmentation, churn signals | `Prophet` `XGBoost` `LSTM` |
 
-<details>
-<summary><b>More work (click to expand)</b></summary>
-<br />
+<div align="center">
 
-- **[🔎 CodeAlpha Analytics](https://github.com/dhruvbhaskar07/codealpha_tasks)** — Web scraping, sentiment analysis, and data visualization.
-- **[📦 All repositories →](https://github.com/dhruvbhaskar07?tab=repositories)** — Complete list of projects and prototypes.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/github-snake-dark.svg" />
+  <img width="100%" src="assets/github-snake.svg" alt="Contribution snake" />
+</picture>
 
-</details>
+</div>
 
 <a id="telemetry"></a>
 
@@ -70,8 +71,6 @@ focus...... usable systems, clean evaluation, steady shipping
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=dhruvbhaskar07&show_icons=true&hide_border=true&bg_color=07110A&title_color=39FF88&text_color=C8D8C8&icon_color=39FF88&ring_color=39FF88" alt="GitHub statistics" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvbhaskar07&layout=compact&hide_border=true&bg_color=07110A&title_color=39FF88&text_color=C8D8C8" alt="Top languages" />
-<br />
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvbhaskar07&bg_color=07110A&color=39FF88&line=16A34A&point=E8FFE9&area=true&hide_border=true" alt="Contribution activity" />
 
 </div>
 
